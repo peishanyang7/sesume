@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@media screen and (max-width: 575.98px) { 
+    .text{color:blue;}
+    .header{
+        height:50%;
+    }
+}
+   
+   @media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .text{color:yellow;}
+   
+}
+   
+   @media screen and (min-width: 768px) and (max-width: 991.98px) { 
+    .text{color:red;}
+    
+    }
+    
+body{
+   padding: 0;
+   margin: 0;
+}
+.logo{
+    font-size: 1.6rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.header{
+    height:70vh;
+    background-color: #d8f7ff;
+}
+.footer{
+   background-color: #89e7ff;
+   height:5vh;
+   text-align: center;
+   font-size: 0.8rem;
+}
+.sammysize{
+    padding-top:12vh;
+}
+.sammy{
+    width:12vw;
+    border-radius: 20px;
+    border: solid 4px #00BFFF;
+}
+.name{
+    font-size: 4.6vh;
+    text-align: center;
+    font-family: 'cwTeXYen', sans-serif;
+    font-weight:400;
+    margin-bottom:-2vh;
+}
+.nothing{
+    height:3vh;
+}
+.me1{
+   
+}
+.me2{
+    
+   background-color: #adeeff;
+}
+.me3{
+    
+}
+.me4{
+    height:3vh;
+    border-bottom: solid 4px #00BFFF;
+}
+.me5{
+    
+}
+.text{
+    letter-spacing: 0.1rem;
+    font-family: 'cwTeXYen', sans-serif;
+    font-size: 3vh;
+    font-weight: 500;
+}
+.title{
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+.gap{
+    width:100%;
+    height:0.5cm;
+    border-top: solid 1px black;
+}
+.fb{
+    width:2%;
+    height:auto;
+}
+.text2{
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.fas{
+   
+}

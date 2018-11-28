@@ -1,0 +1,168 @@
+ 
+ @media screen and (max-width: 575.98px) { 
+ .text0{
+        color:blue;
+        }
+  }
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .text0{
+        color:green;
+        }
+ }
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) { 
+.text0{
+    color:red;
+    font-size: 16px;
+    }
+ }
+
+
+body{
+    padding:0;
+    margin:0;
+}
+#area0{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-1.jpg");
+    background-size:cover;
+    position: relative;
+}
+#area1{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-2.jpg");
+    background-size: cover;
+    background-position: 0 50%;
+    position: relative;
+}
+#area2{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-5.jpg");
+    background-size:cover ;
+    position: relative;
+}
+#area3{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-3.jpg");
+    background-size: cover;
+    position: relative;
+}
+#area4{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-6.jpg");
+    background-size: cover;
+    position: relative;
+}
+#area5{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/landingpage/lp-4.jpg");
+    background-size: cover;
+    position: relative;
+}
+.nav{
+position: fixed;
+z-index:1;
+width:100vw;
+box-sizing: border-box;
+padding:0px 10px;
+margin:0;
+}
+.nav ul{
+list-style-type:none;
+font-size: 0;
+padding:0;
+margin: 0;
+font-size: 0px;
+width: 100vw;
+}
+.nav ul li{
+display:inline-block;
+width:calc(98% / 6);
+font-size:18px;
+padding:0px 25px;
+}
+.nav ul li a{
+background-color: yellow;
+color:black;
+display: block;
+text-decoration: none;
+text-align: center;
+padding: 10px;
+font-weight: bold;
+}
+.nav ul li a:hover{
+    background-color: #d3d000;
+    color:white;
+}
+.text1{
+    font-size: 5rem;
+    position: absolute;
+    right:7vw;
+    bottom:40vh;
+}
+.text2{
+    font-size: 5rem;
+    position: absolute;
+    right:20vw;
+    margin-top:10vh;
+}
+.text3{
+    font-size: 5rem;
+    position: absolute;
+    margin-top:65vh;
+margin-left:13vw;
+}
+.text4{
+    font-size: 5rem;
+    position: absolute;
+    margin-left:5vw;
+    margin-top:10vh;
+}
+.text5{
+    font-size: 5rem;
+    position: absolute;
+    margin-left:5vw;
+    margin-top:10vh;
+}
+.text1 a{
+    text-decoration: none;
+    color:black;
+}
+.text1 a:hover{
+    font-size: 5.5rem;
+}
+.text2 a{
+    text-decoration: none;
+    color:black;
+}
+.text2 a:hover{
+    font-size: 5.5rem;
+}
+.text3 a{
+    text-decoration: none;
+    color:black;
+}
+.text3 a:hover{
+    font-size: 5.5rem;
+}
+.text4 a{
+    text-decoration: none;
+    color:white;
+}
+.text4 a:hover{
+    font-size: 5.5rem;
+}
+.text5 a{
+    text-decoration: none;
+    color:white;
+}
+.text5 a:hover{
+    font-size: 5.5rem;
+}
