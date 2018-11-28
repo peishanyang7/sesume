@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+body{
+    margin:0;
+    padding:0;
+}
+.logo{
+    font-size: 1.6rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.header{
+    width:100vw;
+    height:100vh;
+    background-image: url("image/work/w-7.jpg");
+    background-size: cover;
+}
+.footer{
+    background-color: #fdaeff;
+    height:5vh;
+    text-align: center;
+    font-size: 0.8rem;
+ }
+.gap{
+    width:100vw;
+    height:15vh;
+}

@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@media screen and (max-width: 575.98px) { 
+    
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+.logo{
+    font-size: 1.6rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.footer{
+    background-color: #FF80BF;
+    height:5vh;
+    text-align: center;
+    font-size: 0.8rem;
+ }
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.korea-1{
+   height: 50vh;
+    background-color: #ffcee9;
+}
+.korea-2{
+    height: 50vh;
+    background-color: #FFF;
+}
+.korea-3{
+    height: 50vh;
+    background-color: #ffcee9;
+}
+.korea-4{
+    height: 50vh;
+    background-color: white;
+}
+.korea-5{
+    height: 50vh;
+    background-color: #ffcee9;
+}
+.korea-6{
+    height: 50vh;
+    background-color: white;
+}
+#carouselExampleSlidesOnly .carousel-inner>.carousel-item>img{
+    height: 50vh; 
+}
+.text{
+    letter-spacing: 0.1rem;
+    font-family: 'cwTeXYen', sans-serif;
+    font-size: 1.22rem;
+    font-weight: 500;
+}
+.title{
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.gap{
+    width:100%;
+    height:0.5cm;
+    border-bottom: solid 1px black;
+}
+.important{
+    font-weight: 600;
+}
+
